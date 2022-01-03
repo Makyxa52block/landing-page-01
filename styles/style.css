@@ -1018,6 +1018,7 @@ body {
    cursor: pointer;
 }
 .inst-img {
+   margin-bottom: 7px;
    cursor: pointer;
 }
 .contacts-map {
